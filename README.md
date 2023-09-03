@@ -14,5 +14,5 @@
 
 # Youtube 去广告
 * 一键安装: [YouTube去广告](https://api.boxjs.app/quanx/add-resource?remote-resource=%7B%22rewrite_remote%22:%5B%22https://github.com/kk-cao/quanx/raw/main/YouTubeAD.snippet,tag=%F0%9F%9A%AB%20YouTubeAD%22%5D%7D)
-* 一键安装: [[财新周刊vip]](https://api.boxjs.app/quanx/add-resource?remote-resource=%7B%22rewrite_remote%22:%5B%22https://github.com/kk-cao/quanx/raw/main/CaiXinZhouKanProCrack.snippet,tag=%F0%9F%9A%AB%20%E8%B4%A2%E6%96%B0%E5%91%A8%E5%88%8A%22%5D%7D)
+* 一键安装: [[财新周刊vip]](https://api.boxjs.app/quanx/add-resource?remote-resource=%7B%22rewrite_remote%22:%5B%22https://github.com/ddgksf2013/MoYu/raw/master/CaiXinZhouKanProCrack.js,tag=%F0%9F%9A%AB%20%E8%B4%A2%E6%96%B0%E5%91%A8%E5%88%8A%22%5D%7D)
 * https://github.com/ddgksf2013
