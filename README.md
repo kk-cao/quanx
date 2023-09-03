@@ -13,5 +13,5 @@
   * https://github.com/deezertidal/QuantumultX-Rewrite
 
 # Youtube 去广告
-重写链接: [YouTubeAD.snippet](https://github.com/kk-cao/quanx/raw/main/YouTubeAD.snippet)
+一键安装: [YouTubeAD.snippet](https://api.boxjs.app/quanx/add-resource?remote-resource=%7B%22rewrite_remote%22:%5B%22https://github.com/kk-cao/quanx/raw/main/YouTubeAD.snippet,tag=%F0%9F%9A%AB%20YouTubeAD%22%5D%7D)
 
