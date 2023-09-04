@@ -24,3 +24,5 @@ https://github.com/89996462/Quantumult-X
 https://github.com/yqc007/QuantumultX
 
 https://github.com/Moli-X/Resources
+
+https://article.iwanshare.club/archives/js
