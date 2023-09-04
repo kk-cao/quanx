@@ -18,3 +18,9 @@
 * https://github.com/ddgksf2013
 
 https://github.com/I-am-R-E/Functional-Store-Hub
+
+https://github.com/89996462/Quantumult-X
+
+https://github.com/yqc007/QuantumultX
+
+https://github.com/Moli-X/Resources
