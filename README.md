@@ -3,13 +3,11 @@
 
 # DualSubs
   * https://github.com/DualSubs
-  * Enhanced & Dual Subtitles
   * Telegram讨论组:[🍟 整点薯条](https://t.me/GetSomeFries)
 
 # 贴吧/广告联盟 去广告/Spotify歌词翻译
   * https://github.com/app2smile/rules
 
-# 多个脚本
   * https://github.com/deezertidal/QuantumultX-Rewrite
 
 # Youtube 去广告
@@ -26,3 +24,5 @@ https://github.com/yqc007/QuantumultX
 https://github.com/Moli-X/Resources
 
 https://article.iwanshare.club/archives/js
+
+https://github.com/chxm1023/Rewrite
