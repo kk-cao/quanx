@@ -26,3 +26,7 @@ https://github.com/Moli-X/Resources
 https://article.iwanshare.club/archives/js
 
 https://github.com/chxm1023/Rewrite
+#Spotify 翻译
+https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-lyric.js
+#美图秀秀
+https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/MeiTuXiuXiu.conf
