@@ -2,7 +2,7 @@
 
 
 # DualSubs
-  * https://github.com/DualSubs
+  * 
   * Telegram讨论组:[🍟 整点薯条](https://t.me/GetSomeFries)
 
 # 贴吧/广告联盟 去广告/Spotify歌词翻译
@@ -26,6 +26,8 @@ https://github.com/Moli-X/Resources
 https://article.iwanshare.club/archives/js
 
 https://github.com/chxm1023/Rewrite
+#Dualsub
+https://github.com/DualSubs
 #Spotify 翻译
 https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-lyric.js
 #美图秀秀
